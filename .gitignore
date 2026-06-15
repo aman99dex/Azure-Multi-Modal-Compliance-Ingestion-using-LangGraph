@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+youtube-ad-specs.pdf
+1001a-influencer-guide-508_1.pdf
+.env
